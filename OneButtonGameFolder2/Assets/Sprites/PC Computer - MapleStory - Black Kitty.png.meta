@@ -1,0 +1,1316 @@
+fileFormatVersion: 2
+guid: c09cdfc4959ffdf488fa91327f3f1224
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -899034905962477622
+    second: PC Computer - MapleStory - Black Kitty_0
+  - first:
+      213: -4532025789449360732
+    second: PC Computer - MapleStory - Black Kitty_1
+  - first:
+      213: 1971634154362826278
+    second: PC Computer - MapleStory - Black Kitty_2
+  - first:
+      213: -5300585400262225761
+    second: PC Computer - MapleStory - Black Kitty_3
+  - first:
+      213: -3901039279251374779
+    second: PC Computer - MapleStory - Black Kitty_4
+  - first:
+      213: 7583798572164214986
+    second: PC Computer - MapleStory - Black Kitty_5
+  - first:
+      213: -2424249826940733579
+    second: PC Computer - MapleStory - Black Kitty_6
+  - first:
+      213: 8529200085426190238
+    second: PC Computer - MapleStory - Black Kitty_7
+  - first:
+      213: -6867383090430455059
+    second: PC Computer - MapleStory - Black Kitty_8
+  - first:
+      213: 371421853548580975
+    second: PC Computer - MapleStory - Black Kitty_9
+  - first:
+      213: -993037442801097176
+    second: PC Computer - MapleStory - Black Kitty_10
+  - first:
+      213: 8841171746281631684
+    second: PC Computer - MapleStory - Black Kitty_11
+  - first:
+      213: -8966553111407067389
+    second: PC Computer - MapleStory - Black Kitty_12
+  - first:
+      213: 7556936085402435623
+    second: PC Computer - MapleStory - Black Kitty_13
+  - first:
+      213: 5704337314216709751
+    second: PC Computer - MapleStory - Black Kitty_14
+  - first:
+      213: -761852098323772971
+    second: PC Computer - MapleStory - Black Kitty_15
+  - first:
+      213: 6152143872018472406
+    second: PC Computer - MapleStory - Black Kitty_16
+  - first:
+      213: -7443041979826557473
+    second: PC Computer - MapleStory - Black Kitty_17
+  - first:
+      213: 887808606688857242
+    second: PC Computer - MapleStory - Black Kitty_18
+  - first:
+      213: 8768468323084294156
+    second: PC Computer - MapleStory - Black Kitty_19
+  - first:
+      213: -9161397771366571010
+    second: PC Computer - MapleStory - Black Kitty_20
+  - first:
+      213: -6078749244185591671
+    second: PC Computer - MapleStory - Black Kitty_21
+  - first:
+      213: 6973753561078145974
+    second: PC Computer - MapleStory - Black Kitty_22
+  - first:
+      213: 7787935961360522674
+    second: PC Computer - MapleStory - Black Kitty_23
+  - first:
+      213: 9113723121625910292
+    second: PC Computer - MapleStory - Black Kitty_24
+  - first:
+      213: -1102451616611119130
+    second: PC Computer - MapleStory - Black Kitty_25
+  - first:
+      213: -6451288060934702329
+    second: PC Computer - MapleStory - Black Kitty_26
+  - first:
+      213: 2257972378407689464
+    second: PC Computer - MapleStory - Black Kitty_27
+  - first:
+      213: 4433229870011048643
+    second: PC Computer - MapleStory - Black Kitty_28
+  - first:
+      213: -7047938280031784146
+    second: PC Computer - MapleStory - Black Kitty_29
+  - first:
+      213: 6977549055535232379
+    second: PC Computer - MapleStory - Black Kitty_30
+  - first:
+      213: 6786488919286495217
+    second: PC Computer - MapleStory - Black Kitty_31
+  - first:
+      213: -1231612097573391437
+    second: PC Computer - MapleStory - Black Kitty_32
+  - first:
+      213: -5421973037383196156
+    second: PC Computer - MapleStory - Black Kitty_33
+  - first:
+      213: 3001047373913626079
+    second: PC Computer - MapleStory - Black Kitty_34
+  - first:
+      213: 2657091333842562817
+    second: PC Computer - MapleStory - Black Kitty_35
+  - first:
+      213: 4937257150492003198
+    second: PC Computer - MapleStory - Black Kitty_36
+  - first:
+      213: 2694575392399917456
+    second: PC Computer - MapleStory - Black Kitty_37
+  - first:
+      213: 1065204301334587186
+    second: PC Computer - MapleStory - Black Kitty_38
+  - first:
+      213: -2601045456794994581
+    second: PC Computer - MapleStory - Black Kitty_39
+  - first:
+      213: -5434651927142217177
+    second: PC Computer - MapleStory - Black Kitty_40
+  - first:
+      213: 7124919369473510638
+    second: PC Computer - MapleStory - Black Kitty_41
+  - first:
+      213: 3742908024476929624
+    second: PC Computer - MapleStory - Black Kitty_42
+  - first:
+      213: 8529642225878077825
+    second: PC Computer - MapleStory - Black Kitty_43
+  - first:
+      213: 7311134126984092030
+    second: PC Computer - MapleStory - Black Kitty_44
+  - first:
+      213: 217251759868266411
+    second: PC Computer - MapleStory - Black Kitty_45
+  - first:
+      213: 1424192082099936126
+    second: PC Computer - MapleStory - Black Kitty_46
+  - first:
+      213: 3477190407392949787
+    second: PC Computer - MapleStory - Black Kitty_47
+  - first:
+      213: 5735962029874209479
+    second: PC Computer - MapleStory - Black Kitty_48
+  - first:
+      213: -8550877289127062671
+    second: PC Computer - MapleStory - Black Kitty_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 845
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70e6d248cf583f0800000000000000
+      internalID: -899034905962477622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 845
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa26f26e820b11c0800000000000000
+      internalID: -4532025789449360732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 845
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee2d531d6ac5b10800000000000000
+      internalID: 1971634154362826278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 797
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909fb389a98076b0800000000000000
+      internalID: -5300585400262225761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 797
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3061b179bcd9c0800000000000000
+      internalID: -3901039279251374779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 797
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac076f5ee901f3960800000000000000
+      internalID: 7583798572164214986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 797
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577356a60a55b5ed0800000000000000
+      internalID: -2424249826940733579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 797
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e973f0eb94ecd5670800000000000000
+      internalID: 8529200085426190238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 797
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25e56d67722b0a0800000000000000
+      internalID: -6867383090430455059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 797
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60949a353e872500800000000000000
+      internalID: 371421853548580975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 749
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ad2505b50832f0800000000000000
+      internalID: -993037442801097176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 692
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf26575cd622ba70800000000000000
+      internalID: 8841171746281631684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 645
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f78e6b377609380800000000000000
+      internalID: -8966553111407067389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 645
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204eb0d451afd860800000000000000
+      internalID: 7556936085402435623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 645
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e84ec7090e92f40800000000000000
+      internalID: 5704337314216709751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 605
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d986049d8b5d65f0800000000000000
+      internalID: -761852098323772971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 557
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd1c2914ec06550800000000000000
+      internalID: 6152143872018472406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 509
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2e1811c005b890800000000000000
+      internalID: -7443041979826557473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 509
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c49365931225c00800000000000000
+      internalID: 887808606688857242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 509
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0854b58b7bdfa970800000000000000
+      internalID: 8768468323084294156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 462
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e3af144d2cd080800000000000000
+      internalID: -9161397771366571010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 413
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c4add4c1f3aba0800000000000000
+      internalID: -6078749244185591671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 413
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ad2f4aefb7c060800000000000000
+      internalID: 6973753561078145974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 413
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd526e9e7e441c60800000000000000
+      internalID: 7787935961360522674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 344
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc6cd74e27a7e70800000000000000
+      internalID: 9113723121625910292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 293
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efc6d1881e43b0f0800000000000000
+      internalID: -1102451616611119130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 293
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb44060bb6876a0800000000000000
+      internalID: -6451288060934702329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 237
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc52a73aede55f10800000000000000
+      internalID: 2257972378407689464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 237
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e8a9141ff58d30800000000000000
+      internalID: 4433229870011048643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f3d3d971b03e90800000000000000
+      internalID: -7047938280031784146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 183
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753a0ab5eb35d060800000000000000
+      internalID: 6977549055535232379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 183
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7323a37b37e2e50800000000000000
+      internalID: 6786488919286495217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 186
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b37017925f68eee0800000000000000
+      internalID: -1231612097573391437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 183
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026705df3841c4b0800000000000000
+      internalID: -5421973037383196156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 186
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd59d34bfacd5a920800000000000000
+      internalID: 3001047373913626079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 174
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f64718d72efd420800000000000000
+      internalID: 2657091333842562817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b45db3839a48440800000000000000
+      internalID: 4937257150492003198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 167
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091818cfa0e056520800000000000000
+      internalID: 2694575392399917456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 167
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237244a1bad58ce00800000000000000
+      internalID: 1065204301334587186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 167
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68371f10fa37ebd0800000000000000
+      internalID: -2601045456794994581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 167
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72acbc4cddc3494b0800000000000000
+      internalID: -5434651927142217177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 167
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecc4c6ca6cc0e260800000000000000
+      internalID: 7124919369473510638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 167
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e08e9740b71f330800000000000000
+      internalID: 3742908024476929624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_43
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 146
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18192a699606f5670800000000000000
+      internalID: 8529642225878077825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795f10a0cd567560800000000000000
+      internalID: 7311134126984092030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 50
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c6c51355d30300800000000000000
+      internalID: 217251759868266411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b9d79272fb3c310800000000000000
+      internalID: 1424192082099936126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167d09a046714030800000000000000
+      internalID: 3477190407392949787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e7c3631b3a9f40800000000000000
+      internalID: 5735962029874209479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Black Kitty_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17350a7f86e255980800000000000000
+      internalID: -8550877289127062671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: baf0e093c3260c14997d0c5d0509b944
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
